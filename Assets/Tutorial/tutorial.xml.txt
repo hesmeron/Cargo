@@ -1,0 +1,60 @@
+<Message>
+    <text>
+        Hello comrade!
+        I was ordered to prepare you for this new assingment. 
+        It's in our best interest that you carefully follow my instructions for the glory of our grat leader and entire working class. Now please can you squize a bit that rat of yours?
+    </text>
+    <bottomText>
+        Squize to contiue
+    </bottomText>
+</Message>
+<Message>
+    <text>
+        Great work comrade! If you will follow my commands like that you will surely be fine and don't end up as a CARGO in one of this trains.
+    </text>
+    <bottomText>
+        Squize to contiune
+    </bottomText>
+    Track rolls and with train one single note and train.
+</Message>
+<Message>
+    <text>
+        Yeah trains. Let's get ot the point. 
+        You will organize transport of various... goods across the Soviet Union.... to aid war effort. Now let me know when you are ready and I'll put that trains into motion.  
+    </text>
+    <bottomText>
+        I'm ready to serve the Soviet Union
+    </bottomText>
+</Message>
+<Message>
+    <text>
+        Now cargo entered the platform. You can know collect it in the same way that you responded to my previous messages. But beware! If you click before cargo enteres the platform punishment will be severe, and so will be if you missed it.
+    </text>
+    <bottomText>
+        I accept my responsibility as every sane citzen would
+    </bottomText>
+</Message>
+<Message>
+    <text>
+        Greate comrade! You will enjoy warm for a bit lomnger! Know of course most of OUR trains are a bit looonger. In this case you can't simply do... this thing short as execution of enemies of the working class... You have to DRAGG it as you dragg political prisoner from his warm bed into the cold of Siberian night. Try it comrade!
+    </text>
+    <bottomText>
+        I have proficiency in this sort of service.
+    </bottomText>
+</Message>
+<Message>
+    <text>
+        Now you won't always deal with only one track. It would be too easy on you! Let's add another one. You will control tracks with left and right side of rat respectively.
+    </text>
+    <bottomText>
+        I stand by the leadership of our glorious party
+    </bottomText>
+</Message>
+<Message>
+    <text>
+        Good comrade very good like an October Revolution. Now ther's something that might help you conduct this task great as a purge itself. All trains are arranged to represent the moelody of OUR great patriotic songs. I don't know why. Probably some zealous comrade wanted to show of his loyalty to the ideology. 
+    </text>
+    <bottomText>
+        Click to contiue
+    </bottomText>
+</Message>
